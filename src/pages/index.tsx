@@ -15,9 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <div className={styles.description}>
-          이것은 메인 페이지 입니다.
-        </div>
+        이것저것 고쳐보자
       </main>
     </>
   )

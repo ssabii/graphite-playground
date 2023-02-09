@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function LoginPage() {
   return (
-    <div>Login Page</div>
+    <div>로그인 페이지 구현</div>
   )
 }
